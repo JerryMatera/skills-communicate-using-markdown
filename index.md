@@ -10,3 +10,7 @@ fun main(){
   println("This is kotlin code")
 }
 ```
+
+### Onboarding instruction
+- [ ] Join Slack Channel
+- [ ] Enroll in the Canvas Platform
